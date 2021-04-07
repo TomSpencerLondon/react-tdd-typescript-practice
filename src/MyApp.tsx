@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-function App() {
+function MyApp() {
   return (
     <div>
       <h1>Hello React</h1>
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App;
+export default MyApp;
